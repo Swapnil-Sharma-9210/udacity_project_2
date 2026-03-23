@@ -13,3 +13,4 @@ bash make_prediction.sh
 
 ## Deploy
 bash commands.sh
+# trigger CI
